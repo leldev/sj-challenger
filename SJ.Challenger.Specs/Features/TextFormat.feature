@@ -16,8 +16,8 @@ Examples:
 	| (Hello)                      | True   |
 	| [Hello]                      | True   |
 	| {Hello}                      | True   |
-	| {Hello                       | False   |
-	| Hello}                       | False   |
+	| {Hello                       | False  |
+	| Hello}                       | False  |
 	| (Hello world                 | False  |
 	| Hello world)                 | False  |
 	| {[Hello]}                    | True   |
