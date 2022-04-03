@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/37554377/161452503-fa3c6e3c-4dbd-4f74-b549-164c715ebe96.png)
 + Text Formatted TDD
 
-![image](https://user-images.githubusercontent.com/37554377/161452546-5830b8a2-9973-407e-8ba9-a1ac49ca82a2.png)
+![image](https://user-images.githubusercontent.com/37554377/161453723-23dfc2b2-cec2-43b2-8685-c5c9a663e89c.png)
 + Lottery TDD
 
  ![image](https://user-images.githubusercontent.com/37554377/161452560-c492450f-ba22-4d0c-b389-a3d8565dda89.png)
